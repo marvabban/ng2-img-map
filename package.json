@@ -35,8 +35,5 @@
     "typescript": "^1.8.10",
     "typings": "^1.3.2"
   },
-  "peerDependencies": {
-    "@angular/core": "^2.0.0-rc.4"
-  },
   "typings": "./ng2-img-map.d.ts"
 }
